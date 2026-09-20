@@ -16,9 +16,10 @@ This project studies face sketch synthesis with genuine human drawing trajectori
 
 CUFS provides the original face photographs; this project contributes the newly collected B01–B25 drawing trajectories, metadata, subject mappings, and split definitions. Users may need to obtain CUFS photographs separately under the original terms. The B01–B25 trajectories were created and curated by the School of Design Art, Xiamen University of Technology.
 
-Dataset archival download: **Pending institutional release approval.**
+Zenodo dataset archive: [https://zenodo.org/records/22855963](https://zenodo.org/records/22855963)
+Dataset DOI: [https://doi.org/10.5281/zenodo.22855963](https://doi.org/10.5281/zenodo.22855963)
 
-**Release status.** This local directory is staging material only. The public GitHub repository URL and the dataset archival URL are pending authorized creation; see `dataset/release_notes/PUBLIC_RELEASE_ACTIONS.md` before release.
+**Release status.** The B01–B25 drawing-process dataset is publicly available on Zenodo. CUFS source face photographs are not redistributed.
 
 Each subject has one real human-drawn B01–B25 trajectory. The intermediate states were manually saved during actual digital drawing; they are neither interpolated pseudo-stages nor fixed semantic boundaries. See `dataset/` for split, subject-mapping, and release-note documentation.
 
@@ -37,7 +38,7 @@ figures_examples/       frozen paper figures
 
 ## Installation
 
-Create the project environment with the pinned packages in `requirements.txt`, then configure local dataset locations and the released split files. No dataset or checkpoint download URL is invented in this staging repository; the public archival link will be added after release approval.
+Create the project environment with the pinned packages in `requirements.txt`, then configure local dataset locations and the released split files. Download the B01–B25 trajectories from the Zenodo archive: https://zenodo.org/records/22855963.
 
 ## Process supervision
 
@@ -67,15 +68,15 @@ Metrics are F1, IoU, L1, and EdgeLoss. F1/IoU emphasize structural overlap; L1/E
 
 ## Dataset access and CUFS attribution
 
-The B01-B25 drawing trajectories are planned for separate archival release after institutional approval. CUFS provides the source face photographs; CUFS photographs are not redistributed in this repository or the planned dataset archive.
+The B01–B25 drawing trajectories are publicly available at https://doi.org/10.5281/zenodo.22855963. CUFS provides the source face photographs; CUFS photographs are not redistributed in this repository or the Zenodo dataset archive.
 
 ## Citation
 
-See `CITATION.cff` for citation metadata.
+See `CITATION.cff` for paper and code citation metadata. For the dataset, cite DOI [https://doi.org/10.5281/zenodo.22855963](https://doi.org/10.5281/zenodo.22855963).
 
 ## License
 
-Code license: MIT. Dataset license: Pending institutional approval. The MIT license applies to code only and does not apply to the B01-B25 trajectories or CUFS photographs.
+Code license: MIT. Dataset license: CC BY-NC 4.0. The MIT license applies to code only; the CC BY-NC 4.0 license applies to the B01–B25 drawing trajectories. Neither license applies to CUFS photographs.
 
 ## Contact
 

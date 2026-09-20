@@ -8,3 +8,15 @@ authors:
     given-names: Yiyang
 abstract: "A process-enriched exploratory study of human drawing supervision for face sketch synthesis."
 repository-code: "https://github.com/qepohaxucesu10-gif/Beyond-the-Final-Sketch"
+references:
+  - type: dataset
+    title: "Beyond the Final Sketch: 25-Stage Human Drawing Process Dataset for Face Sketch Synthesis"
+    version: "1.0.0"
+    authors:
+      - family-names: Weng
+        given-names: Lifen
+      - family-names: Shi
+        given-names: Yiyang
+    doi: "10.5281/zenodo.22855963"
+    url: "https://doi.org/10.5281/zenodo.22855963"
+    license: "CC-BY-NC-4.0"
