@@ -14,7 +14,7 @@ This project studies face sketch synthesis with genuine human drawing trajectori
 
 CUFS provides the original face photographs; this project contributes the newly collected B01–B25 drawing trajectories, metadata, subject mappings, and split definitions. Users may need to obtain CUFS photographs separately under the original terms. The B01–B25 trajectories were created and curated by the School of Design Art, Xiamen University of Technology.
 
-Dataset download: **[TODO: public archival URL]**. [TODO: confirm institutional ownership/copyright statement before public release.]
+Dataset archival download: **Pending institutional release approval.**
 
 **Release status.** This local directory is staging material only. The public GitHub repository URL and the dataset archival URL are pending authorized creation; see `dataset/release_notes/PUBLIC_RELEASE_ACTIONS.md` before release.
 
