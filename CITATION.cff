@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the associated article."
+title: "Beyond the Final Sketch"
+authors:
+  - family-names: Weng
+    given-names: Lifen
+  - family-names: Shi
+    given-names: Yiyang
+abstract: "A process-enriched exploratory study of human drawing supervision for face sketch synthesis."
+repository-code: "[URL to be added before submission]"
