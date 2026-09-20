@@ -4,6 +4,8 @@
 
 Authors: Lifen Weng*, Yiyang Shi
 
+Project repository: [https://github.com/qepohaxucesu10-gif/Beyond-the-Final-Sketch](https://github.com/qepohaxucesu10-gif/Beyond-the-Final-Sketch)
+
 > Use the drawing process as supervision, rather than as an inference chain.
 
 ## Overview
