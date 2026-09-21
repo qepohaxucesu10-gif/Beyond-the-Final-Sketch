@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite the associated article."
-title: "Beyond the Final Sketch"
+title: "Beyond the Final Sketch: A Process-Enriched Dataset and Exploratory Study of Human Drawing Supervision for Face Sketch Synthesis"
 authors:
   - family-names: Weng
     given-names: Lifen

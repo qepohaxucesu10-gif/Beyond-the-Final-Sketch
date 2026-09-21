@@ -1,6 +1,4 @@
-# Beyond the Final Sketch
-
-**A Process-Enriched Dataset and Exploratory Study of Human Drawing Supervision for Face Sketch Synthesis**
+# Beyond the Final Sketch: A Process-Enriched Dataset and Exploratory Study of Human Drawing Supervision for Face Sketch Synthesis
 
 Authors: Lifen Weng*, Yiyang Shi
 
